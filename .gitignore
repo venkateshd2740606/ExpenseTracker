@@ -1,5 +1,9 @@
-# Gradle
+﻿# Gradle
+# Local Gradle build logs
+build*.txt
+
 .gradle/
+.gradle-home/
 build/
 **/build/
 
