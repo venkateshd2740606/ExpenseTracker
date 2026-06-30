@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ExpenseTrackerPro" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.ExpenseTrackerPro.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#1B8A6B</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.ExpenseTrackerPro</item>
+    </style>
+</resources>
